@@ -4,7 +4,7 @@
 
 # 安装方法
 
-Publii 在 0.39.0 就支持了安装语言包，但是是实验性功能所以没有标明，只是在他们的更新博客中[提到了](https://getpublii.com/blog/release-039.html)，安装方法如下面动图所示。
+Publii 在 0.39.0 就支持了安装语言包，但是是实验性功能所以没有标明，只是在他们的更新博客中[提到了](https://getpublii.com/blog/release-039.html)，安装方法如下面动图所示，下载 Release 的最新版本。
 ![动画.gif](https://s2.loli.net/2022/05/04/o6CiWLXfhlKv2YJ.gif)
 
 
