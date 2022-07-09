@@ -1,8 +1,8 @@
 {
-	"name": "Chinese - Simplified",
-	"version": "0.2",
-	"author": "Dyxang",
-	"publiiSupport": "0.39.1",
-	"momentLocale": "cn",
-	"wysiwygTranslation": true
+    "name": "Chinese - Simplified",
+    "version": "1.0.0",
+    "author": "Dyxang",
+    "publiiSupport": "0.40.0",
+    "momentLocale": "cn",
+    "wysiwygTranslation": true
 }
