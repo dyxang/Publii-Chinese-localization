@@ -1,0 +1,3 @@
+files:
+  - source: /locales/en-gb
+    translation: /locales/%locale_with_underscore%
