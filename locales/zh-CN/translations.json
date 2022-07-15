@@ -541,7 +541,7 @@
         "selectThemeBeforeCreatingPreviewMsg": "在尝试创建网站预览之前，您必须选择一个主题。\n请转到网站设置部分并选择一个主题。"
     },
     "settings": {
-        "addGDPRCookieBanner": "启用横幅",
+        "addGDPRCookieBanner": "添加 GDPR Cookie 横幅",
         "additionalValidElementsInWYSIWYGEditor": "所见即所得编辑器中的其他有效元素",
         "additionalValidElementsInWYSIWYGEditorInfo": "如果 WYSIWYG 编辑器自动从您的 HTML 代码中删除一些标签，您可以在此处将它们添加为允许的元素。<br> 例如：<strong>v-select[*],v-dropdown[*]</strong> 将允许\n具有任何属性的自定义 v-select 和 v-dropdown 标签。",
         "advancedOptions": "高级选项",
