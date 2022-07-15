@@ -1,9 +1,9 @@
-# Publii 中文翻译
+# Publii 中文翻译|[繁體中文](./README_zht.md)|[ENGLISH](./README_en.md)
 [![Crowdin](https://badges.crowdin.net/publii-chinese-localization/localized.svg)](https://zh.crowdin.com/project/publii-chinese-localization)
  [![Maintenance](https://img.shields.io/badge/还在维护吗%3F-对-green.svg)](https://github.com/dyxang/Publii-Chinese-localization/graphs/commit-activity)
 
-Publii UI's personal Chinese language pack,Chinese Simplified.
-> Publii 的个人自用中文语言包
+Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Traditional.
+> Publii 的个人自用中文语言包（包括简体与繁体）
 > 避免了一些基础翻译错误，比如 Post 直译成 帖子（实际上是文章），Numbered List是有序列表（而不是符号列表），Bullet List 是无序列表。
 > 这个仓库会一直存在，自用
 
