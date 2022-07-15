@@ -11,7 +11,7 @@ Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Tradi
 
 >Basic translation errors, such as Post translated to Post, Post (actually article) , Numbered List as an ordered List (not a symbolic List) , Bullet List as an unordered List.
 
->This warehouse will always exist for my own use
+>This repo will always exist for my own use
 
 
 ## Improve translation
