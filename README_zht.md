@@ -9,7 +9,7 @@ Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Tradi
 
 ## 改進翻譯
 
-請幫助我改進翻譯品質！目前在Crowdin維護中文翻譯，可以通過[邀請連結](https://crwd.in/publii-chinese-localization)加入翻譯。
+請幫助我改進翻譯品質！目前在Crowdin維護中文翻譯，可以通過[邀請連結](https://crwd.in/publii-chinese-localization)加入翻譯。特別是繁體中文使用者，歡迎改進繁體翻譯。
 
 
 ## 安裝方法
