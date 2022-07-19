@@ -13,7 +13,7 @@ Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Tradi
 
 ## 安装方法
 
-Publii 在 0.39.0 就支持了安装语言包，但是是实验性功能所以没有标明，只是在他们的更新博客中[提到](https://getpublii.com/blog/release-039.html)，安装方法如下面动图所示，下载本仓库 Release 的最新版本或去[官方仓库](https://github.com/GetPublii/Publii-ui-locales/tree/main/downloads)进行下载。
+Publii 在 0.39.0 就支持了安装语言包，但是是~~实验性功能所以没有标明，只是在他们的更新博客中[提到](https://getpublii.com/blog/release-039.html)~~，安装方法如下面动图所示（最新版本Publii右上角安装语言包即可），下载本仓库 Release 的最新版本或去[官方仓库](https://github.com/GetPublii/Publii-ui-locales/tree/main/downloads)进行下载。
 ![动画.gif](https://s2.loli.net/2022/06/06/1yDCMfHdUtgeilb.gif)
 
 

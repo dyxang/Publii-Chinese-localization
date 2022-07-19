@@ -10,7 +10,7 @@
 
 ## 安裝方法
 
-Publii 在 0.39.0 就支持了安裝語言包，但是是實驗性功能所以沒有標明，只是在他們的更新部落格中[提到](https://getpublii.com/blog/release-039.html)，安裝方法如下面動圖所示，下載本倉庫 Release 的最新版本或去[官方倉庫](https://github.com/GetPublii/Publii-ui-locales/tree/main/downloads)進行下載。
+Publii 在 0.39.0 就支持了安裝語言包，~~但是是實驗性功能所以沒有標明，只是在他們的更新部落格中[提到](https://getpublii.com/blog/release-039.html)~~， 安裝方法如下面動圖所示（最新版本Publii右上角安裝語言包即可），下載本倉庫 Release 的最新版本或去[官方倉庫](https://github.com/GetPublii/Publii-ui-locales/tree/main/downloads)進行下載。
 ![動畫.gif](https://s2.loli.net/2022/06/06/1yDCMfHdUtgeilb.gif)
 
 
