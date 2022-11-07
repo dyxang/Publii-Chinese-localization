@@ -1,9 +1,9 @@
 # Publii 中文翻译|[繁體中文介绍](./README_zht.md)
 [![Crowdin](https://badges.crowdin.net/publii-chinese-localization/localized.svg)](https://zh.crowdin.com/project/publii-chinese-localization)
  [![Maintenance](https://img.shields.io/badge/还在维护吗%3F-对-green.svg)](https://github.com/dyxang/Publii-Chinese-localization/graphs/commit-activity)
-
+**目前翻译对应版本: 40.0 最新软件原文版本: 40.1**
 Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Traditional.
-> Publii 中文语言包（包括简体与繁体）,已提交至[官方仓库](https://github.com/GetPublii/Publii-ui-locales#current-and-upcoming-translations-by-language-code)
+> Publii 中文语言包（包括简体与繁体），此仓库做翻译与提醒用,下载请移至[官方仓库](https://github.com/GetPublii/Publii-ui-locales#current-and-upcoming-translations-by-language-code)
 
 
 ## 改进翻译
