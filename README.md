@@ -8,6 +8,7 @@ Publii UI's personal Chinese language packs,Chinese Simplified and Chinese Tradi
 ## 改进翻译
 
 请帮助我改进翻译质量！目前在 Crowdin 维护中文翻译，可以通过[邀请链接](https://crwd.in/publii-chinese-localization)加入翻译。
+你可以使用[应用和网页i18n翻译搜索](https://i18ns.com/)来帮助自己对照翻译。该网站收集各种常用翻译词，输入不同语言返回各种应用&网页语言包对这个词的翻译。
 
 
 ## 安装方法
