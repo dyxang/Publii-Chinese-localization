@@ -1,3 +1,5 @@
+# 2024.11.3 此仓库仅做归档，翻译直接提交至官方仓库
+
 # Publii 中文翻译|[繁體中文介绍](./README_zht.md)
 [![Crowdin](https://badges.crowdin.net/publii-chinese-localization/localized.svg)](https://zh.crowdin.com/project/publii-chinese-localization)
  [![Maintenance](https://img.shields.io/badge/还在维护吗%3F-对-green.svg)](https://github.com/dyxang/Publii-Chinese-localization/graphs/commit-activity)
